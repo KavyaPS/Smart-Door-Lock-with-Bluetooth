@@ -11,7 +11,6 @@ A smart door lock system that allows users to remotely lock/unlock a door via a 
 # Screenshots of the Project
 ![Model screenshot](project/Model.jpg)
 ![Arduino IDE Screenshot](project/compilation_process.jpg)
-
 ![](project/uploading_process.jpg)
 ## video
 ![video](project/video.mp4)
