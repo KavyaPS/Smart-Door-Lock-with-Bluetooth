@@ -6,10 +6,11 @@ Built using Embedded and IOT
 A smart door lock system that allows users to remotely lock/unlock a door via a mobile device. The project uses an Arduino Uno, a 12V solenoid lock, a 5V relay, and a Bluetooth module for wireless communication. The Arduino processes mobile commands and controls the relay to actuate the lock, ensuring secure access
 
 ## Technologies Used
-- **Tools:** Arduino IDE
+- **Tools:** Arduino IDE .
+  
 # Screenshots of the Project
-![Model screenshot]  (project/Model.jpg)
-![Arduino IDE Screenshot](project/compilationprocess.jpg)
+![Model screenshot](project/Model.jpg)
+![Arduino IDE Screenshot](project/compilation process.jpg)
 ![](project/uploadingprocess.jpg)
 ## video
 ![video](project/video.mp4)
