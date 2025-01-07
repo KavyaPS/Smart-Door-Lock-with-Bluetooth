@@ -8,7 +8,7 @@ A smart door lock system that allows users to remotely lock/unlock a door via a 
 ## Technologies Used
 - **Tools:** Arduino IDE
 # Screenshots of the Project
-![Model screenshot](project/Model.jpg)
+![Model screenshot]  (project/Model.jpg)
 ![Arduino IDE Screenshot](project/compilationprocess.jpg)
 ![](project/uploadingprocess.jpg)
 ## video
