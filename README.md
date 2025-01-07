@@ -7,17 +7,14 @@ A smart door lock system that allows users to remotely lock/unlock a door via a 
 
 ## Technologies Used
 - **Tools:** Arduino IDE
-- 
 # Screenshots of the Project
-![Screenshot 1](dashboard/screenshot1.png)
-![Screenshot 2](dashboard/screenshot2.png)
+![Model screenshot](project/Model.jpg)
+![Arduino IDE Screenshot](project/compilationprocess.jpg)
+![](project/uploadingprocess.jpg)
 ## video
-![Download the Power BI Dashboard](dashboard/dashboard.pbix)
+![video](project/video.mp4)
 
-## Future Plans
 
-- Integrate real-time tracking and notifications.
-- Implement user views and dynamic accessibility in all sort of smart devices
   
 
 
